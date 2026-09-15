@@ -6,10 +6,9 @@ Contato-Email: underdevia@gmail.com
 ### PT-BR - Rafhael Oliveira
 
 <details>
+Sou desenvolvedor e arquiteto de software com 8 anos de experiência em tecnologia, desenvolvimento de jogos e infraestrutura. Comecei a programar aos 13 anos, criando e mantendo servidores de jogos, e foi nesse ambiente que desenvolvi grande parte da minha experiência prática com sistemas distribuídos, performance, networking e backend.
 
-Desenvolvedor de Software | Especialista em Nuvem | Expert em Programação Orientada a Objetos | C#, C++, PHP, JavaScript, Lua
-
-Tenho experiência em gerenciamento e otimização de máquinas virtuais em plataformas como Google Cloud Platform, AWS e Azure, garantindo suporte eficiente para aplicativos e serviços.
+Ao longo dos anos, trabalhei com C#, C++, PHP, JavaScript e Lua, bancos de dados e infraestrutura em Google Cloud, AWS e Azure. Meu foco sempre esteve em construir sistemas escaláveis, estáveis e eficientes — principalmente quando a solução precisa continuar funcionando sob alta carga.
 
 Sou proficiente no design e implementação de bancos de dados na nuvem, assegurando desempenho, escalabilidade e segurança para os sistemas que desenvolvo.
 
